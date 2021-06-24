@@ -1,8 +1,4 @@
-<p>Hi! I'm Joe. I'm currently studying for an undergraduate degree in <b>Mathematics and Statistics</b>, and plan to start a Master's in Data Science after my graduation. I'm interested in Data Science, A.I. and Machine Learning.</p>
+<p>Hi! I'm Joe. I'm a recent graduate in Mathematics and Statistics, with a First Class degree, interested in Data Science, AI/ML, and Sports Analytics. I'm hoping to begin a career as a Data Scientist/Engineer.</p>
 
-  <ul><b>Recent work:</b>
-    <li><em><a href="https://github.com/jep00/betting-accuracy">Assessing the accuracy of betting odds in European football</a></em></li>
-    <li><em><a href="http://jep00.github.io">My website</a> (<a href="https://github.com/jep00/jep00.github.io">Repo</a>)</em></li>
-    <li><em><a href="http://github.com/jep00/project-euler">Project Euler solutions</a></em></li>
-  </ul>
-<p>Get in touch with me via Twitter: <a href="http://www.twitter.com/_jep00">@_jep00</a> or by <a href='mailto:josephpym@outlook.com'>emailing me</a>!</p>
+<p> See my dissertation repo <a href="http://www.github.com/jep00/betting-accuracy">here</a>.</p>
+<p> Links: <a href="http://jep00.github.io">Website</a> (<a href="https://github.com/jep00/jep00.github.io">Repo</a>) // <a href="http://www.twitter.com/_jep00">Twitter</a> // <a href='mailto:josephpym@outlook.com'>Email</a></p>
